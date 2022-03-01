@@ -2,7 +2,7 @@ body {
     display: flex;
     justify-content: center!important;
     align-items: center!important;
-    background: url(/assets/img/wallpaper_ccexpress.jpeg) no-repeat;
+    background: url(/assets/img/wallpaper.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     height: 800px;
