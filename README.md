@@ -4,7 +4,7 @@
 
 >  The site consists of a table with One Piece Volume 1 that moves as you pass.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/OnePiece-Volume1/
+Confira a aplicação: https://onepiece-volume01.netlify.app
 
 ## 🚀 Technologies
 
