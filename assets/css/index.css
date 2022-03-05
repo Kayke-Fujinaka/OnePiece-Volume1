@@ -1,7 +1,7 @@
 body {
     display: flex;
-    justify-content: center!important;
-    align-items: center!important;
+    justify-content: center !important;
+    align-items: center !important;
     background: url(/assets/img/wallpaper.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -47,9 +47,17 @@ body {
     bottom: 0;
     left: 0;
     transform: skewX(-45deg) translate(15px, 30px);
-   
+
 }
 
+@media (max-width: 760px) {
 
+    .container {
+        width: 186px;
+        height: 250px;
+    }
 
-
+    .container:before {
+        background-size: 30px 249px;
+    }
+}
