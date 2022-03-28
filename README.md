@@ -1,36 +1,50 @@
 # One Piece Volume 01
 
-<img src="./assets/img/img.png" width="450px" alt="PlayStation Store Page">
+<img src="./assets/img/gif.gif" width="800px" height="400px" alt="Gif do Teste">
 
 >  The site consists of a table with One Piece Volume 1 that moves as you pass.
 
-Confira a aplicação: https://onepiece-volume01.netlify.app
+Check the Application: https://onepiece-volume01.netlify.app
+## :page_facing_up: Explanation
 
-## 🚀 Technologies
+Ele é um projeto simulando um mangá do One Piece Volume 1.
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+O projeto é bem simples, pois utilizou na maior parte do projeto apenas o css. Ele contém uma div única que está coberta por um link.
+A div foi estilizado a fim de dar o efeito de mexer o mangá, a capa e lateral do mangá.
+## :dart: Features ##
 
-- HTML5
-- CSS3
+:heavy_check_mark: Criei uma única div com uma class "Container";\
+:heavy_check_mark: Estilizei todo projeto a partir dela;\
+:heavy_check_mark: Coloquei um link em torno dessa div direcionando para o site da OPEX;\
+:heavy_check_mark: Finalizado;
 
-## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+## 🤝 Collaborators
+
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
+&#xa0;
+
+<a href="#top">Back to top</a>
