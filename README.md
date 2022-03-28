@@ -38,6 +38,14 @@ We thank the following people who contributed to this project:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/97638555?v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <sub>
+          <b>Ismael Gomes da Silva</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
