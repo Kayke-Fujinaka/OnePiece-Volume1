@@ -1,6 +1,6 @@
 # One Piece Volume 01
 
-<img src="./assets/img/gif.gif" width="800px" height="500px" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" alt="Gif do Teste">
 
 >  The site consists of a table with One Piece Volume 1 that moves as you pass.
 
