@@ -1,0 +1,11 @@
+@media (max-width: 760px) {
+
+    .container {
+        width: 186px;
+        height: 250px;
+    }
+
+    .container:before {
+        background-size: 30px 249px;
+    }
+}
